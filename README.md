@@ -6,7 +6,6 @@
 ## Course layout
 
 
-
 * Week 1  :  Overview of Object-Oriented Programming and Java
 * Week 2  :  Java Programming Elements
 * Week 3  :  Input-Output Handling in Java
@@ -21,5 +20,8 @@
 * Week 12:  Interface and Packages for Software Development
 
 **Useful Resource for Self Study provided by Professor - [Visit here](https://cse.iitkgp.ac.in/~dsamanta/java/index.htm")**
-
 *For Enrolling course visit [Click Here](https://onlinecourses.nptel.ac.in/noc21_cs56/preview")* 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center">Navigate 👨‍💻 to Weekly Content </h3>
+`[Week 01](https://github.com/garvitraj/Swyam-IIT-KGP-NPTEL-Java-Course-2021-/tree/main/Week%201)`
