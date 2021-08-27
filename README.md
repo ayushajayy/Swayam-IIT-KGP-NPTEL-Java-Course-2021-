@@ -20,4 +20,6 @@
 * Week 11:  Java Object Database Connectivity (ODBC)
 * Week 12:  Interface and Packages for Software Development
 
-*If you wish to enroll course visit - https://onlinecourses.nptel.ac.in/noc21_cs56/preview*
+** Useful Resource for Self Study provided by Professor - [** Visit **](https://cse.iitkgp.ac.in/~dsamanta/java/index.htm") **
+
+*For Enrolling course visit [** Click Here **](https://onlinecourses.nptel.ac.in/noc21_cs56/preview") 
