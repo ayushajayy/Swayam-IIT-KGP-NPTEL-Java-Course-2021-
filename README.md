@@ -5,6 +5,11 @@
 
 ## Course layout
 
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
 1. Overview of Object-Oriented Programming and Java
 2. Java Programming Elements
 Week 3  :  Input-Output Handling in Java
