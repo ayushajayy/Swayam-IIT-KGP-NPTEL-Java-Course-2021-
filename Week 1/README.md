@@ -4,12 +4,12 @@
 
 * **Lecture 01 :** Introduction
   * **Concepts Covered  :** 
-      *1. Concept of Java Programming*
-      *2. How is Java Unique?*
-      *3. High-level Programming Principles*
-      *4. Java Programming Paradigm*
-      *5. Java Programming Features*
-      *Watch the Video on [Youtube](https://www.youtube.com/watch?v=OjdT2l-EZJA)*
+      * *1. Concept of Java Programming*
+      * *2. How is Java Unique?*
+      * *3. High-level Programming Principles*
+      * *4. Java Programming Paradigm*
+      * *5. Java Programming Features*
+      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=OjdT2l-EZJA)*
       
 * **Lecture 02 :** Java Programming Steps
   * **Concepts Covered  :** 
