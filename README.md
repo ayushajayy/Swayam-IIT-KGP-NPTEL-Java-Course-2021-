@@ -5,8 +5,8 @@
 
 ## Course layout
 
-Week 1  :  Overview of Object-Oriented Programming and Java
-Week 2  :  Java Programming Elements
+1. Overview of Object-Oriented Programming and Java
+2. Java Programming Elements
 Week 3  :  Input-Output Handling in Java
 Week 4  :  Encapsulation
 Week 5  :  Inheritance
