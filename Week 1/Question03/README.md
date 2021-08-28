@@ -6,7 +6,9 @@ Complete the code segment **to find the perimeter and area of a circle given a v
 *Input: n = 5*
 -------
 **0 2 4 6 8**
+
 *Even number divisible by 3: 0 6*
+
 **sum: 6**
 
 Input  | Expected Output
