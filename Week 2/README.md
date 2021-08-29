@@ -33,12 +33,12 @@
       * *2. Java Runtime Data Input*    
       * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=Ep1UB12YkzI)*
 
-* **Lecture 05 :** Java Applet Programming
+* **Lecture 10 :** Demonstration-IV
   * **Concepts Covered  :** 
-      * *1. Java Programming for Applet*
-      * *2. Structure of an Applet*
-      * *3. Input to an Applet*
-      * *4. Application versus Applet*
-      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=0pzR2FGTEhk)*
+      * *1. Use of print (), println () and printf ().*
+      * *2. Command Line Input in Java*
+      * *3. Take Input using Scanner Class*
+      * *4. Read Input with DataInputStream*
+      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=o_2f3rujJUo)*
       
 
