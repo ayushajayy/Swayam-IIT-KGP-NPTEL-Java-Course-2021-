@@ -27,14 +27,11 @@
       * *7. More Specialized Use of this Keyword.*
       * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=4wZ_3oLoYiY)*
           
-* **Lecture 04 :** Demonstration-I
+* **Lecture 09 :** Java Programming Insights
   * **Concepts Covered  :** 
-      * *1. How to Install Java?*
-      * *2. Setting environment Variables to Run Java Programs.*
-      * *3. High-level Programming Principles*
-      * *4. Editing a Java Program and its Compilation and Execution.*
-      * *5. Few Simple Java Programs*
-      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=2duE6dWb6dY)*
+      * *1. About main () Method*
+      * *2. Java Runtime Data Input*    
+      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=Ep1UB12YkzI)*
 
 * **Lecture 05 :** Java Applet Programming
   * **Concepts Covered  :** 
