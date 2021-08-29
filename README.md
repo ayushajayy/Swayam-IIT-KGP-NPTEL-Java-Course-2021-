@@ -26,5 +26,6 @@
 
 <h3 align="center">Navigate 👨‍💻 to Weekly Content </h3>
 
-<a href="https://github.com/garvitraj/Swyam-IIT-KGP-NPTEL-Java-Course-2021-/tree/main/Week%201"> `Week 01`</a>
+<a href="https://github.com/garvitraj/Swyam-IIT-KGP-NPTEL-Java-Course-2021-/tree/main/Week%201"> `Week 01`</a> 
+<a href="https://github.com/garvitraj/Swayam-IIT-KGP-NPTEL-Java-Course-2021-/tree/main/Week%202"> `Week 02`</a>
 
