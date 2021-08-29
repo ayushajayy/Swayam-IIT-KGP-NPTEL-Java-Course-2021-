@@ -1,4 +1,4 @@
-<h2 align="center">First Week complete Content 📝</h2>
+<h2 align="center">Second Week complete Content 📝</h2>
 
 ### Course Outline ###
 
