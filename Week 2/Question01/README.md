@@ -6,7 +6,7 @@ Complete the code segment to call the method **print()** *of class Student first
 Input  | Expected Output
 -------| ---------------------
 NA     | **Hi! I am class STUDENT**
-       | **Hi! I class SCHOOL.**
+NA     | **Hi! I class SCHOOL.**
 
 **See the Solution** *[Here](https://github.com/garvitraj/Swayam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%202/Question01/solution.java)*
 
