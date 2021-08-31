@@ -16,16 +16,16 @@
       * *3. Programs in Java with recursion*    
       * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=eKckLidjtP8&t=3s)*
       
-* **Lecture 08 :** Demonstration-III
+* **Lecture 13 :** Inheritance
   * **Concepts Covered  :** 
-      * *1. Encapsulation: Creating a Class.*
-      * *2. Creating Objects in a Program.*
-      * *3. Defining More Method in a Class.*
-      * *4. Constructor in a Class and its use*
-      * *5. Demonstration of Constructor Overloading.*
-      * *6. Use of this: To Avoid Name Space Collision.*
-      * *7. More Specialized Use of this Keyword.*
-      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=4wZ_3oLoYiY)*
+      * *1. Inheritance Concept*
+      * *2. Types of Inheritances*
+      * *3. Method Overriding*
+      * *4. super Keyword*
+      * *5. Dynamic Method Dispatch*
+      * *6. Abstract Class in Java*
+      * *7. final Keyword in Java*
+      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=rxsl1TzcEgg)*
           
 * **Lecture 09 :** Java Programming Insights
   * **Concepts Covered  :** 
