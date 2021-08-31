@@ -2,11 +2,12 @@
 
 ### Course Outline ###
 
-* **Lecture 06 :** Demonstration-II
+* **Lecture 06 :** Java Static Scope Rule
   * **Concepts Covered  :** 
-      * *1. Writing and Running a Java Applet using HTML File*
-      * *2. Running a Java Applet without using HTML File*     
-      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=DLyCB2a4Tb4)*
+      * *1. Static Scope Rule in Java*
+      * *2. Nested Class in Java* 
+      * *3. Recursive Programs in Java*    
+      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=VNvyB0wjE5Y)*
       
 * **Lecture 07 :** Encapsulation
   * **Concepts Covered  :** 
