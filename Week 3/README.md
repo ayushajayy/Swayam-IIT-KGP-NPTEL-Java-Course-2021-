@@ -1,4 +1,4 @@
-<h2 align="center">Second Week complete Content 📝</h2>
+<h2 align="center">Third Week complete Content 📝</h2>
 
 ### Course Outline ###
 
@@ -37,12 +37,13 @@
       * *6. Use of final Keyword*
       * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=Xpw11pR41ps&t=5s)*
 
-* **Lecture 10 :** Demonstration-IV
+* **Lecture 15 :** Information Hiding
   * **Concepts Covered  :** 
-      * *1. Use of print (), println () and printf ().*
-      * *2. Command Line Input in Java*
-      * *3. Take Input using Scanner Class*
-      * *4. Read Input with DataInputStream*
-      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=o_2f3rujJUo)*
+      * *1. Access Modifiers in Java*
+      * *2. Default Access modifier*
+      * *3. public Access Modifier*
+      * *4. private Access Modifier*
+      * *5. protected Access Modifier*
+      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=t4GPGkLh4Vg)*
       
 
