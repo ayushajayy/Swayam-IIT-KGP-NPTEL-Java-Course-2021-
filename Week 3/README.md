@@ -27,11 +27,15 @@
       * *7. final Keyword in Java*
       * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=rxsl1TzcEgg)*
           
-* **Lecture 09 :** Java Programming Insights
+* **Lecture 14 :** Demonstration-VI
   * **Concepts Covered  :** 
-      * *1. About main () Method*
-      * *2. Java Runtime Data Input*    
-      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=Ep1UB12YkzI)*
+      * *1. Simple Inheritance*
+      * *2. Multilevel Inheritance*   
+      * *3. Use of super Keyword*
+      * *4. Method Overriding in Inheritance*
+      * *5. Abstract Class*
+      * *6. Use of final Keyword*
+      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=Xpw11pR41ps&t=5s)*
 
 * **Lecture 10 :** Demonstration-IV
   * **Concepts Covered  :** 
