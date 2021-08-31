@@ -2,20 +2,19 @@
 
 ### Course Outline ###
 
-* **Lecture 06 :** Java Static Scope Rule
+* **Lecture 11 :** Java Static Scope Rule
   * **Concepts Covered  :** 
       * *1. Static Scope Rule in Java*
       * *2. Nested Class in Java* 
       * *3. Recursive Programs in Java*    
       * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=VNvyB0wjE5Y)*
       
-* **Lecture 07 :** Encapsulation
+* **Lecture 12 :** Demonstration-V
   * **Concepts Covered  :** 
-      * *1. Concept of Class in java*
-      * *2. Multiple Classes Declaration*
-      * *3. Constructors*
-      * *4. this Keyword*
-      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=K9gQwLeNXyw)*
+      * *1. Programs to Demonstrate Loop Control*
+      * *2. Programs to Demonstrate Scope of Variables*
+      * *3. Programs in Java with recursion*    
+      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=eKckLidjtP8&t=3s)*
       
 * **Lecture 08 :** Demonstration-III
   * **Concepts Covered  :** 
