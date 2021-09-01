@@ -9,4 +9,4 @@ Input  | Expected Output
 2      | 1
 3      | 1
 
-**See the Solution** *[Here](https://github.com/garvitraj/Swyam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%203/Question01/solution.java)*
+**See the Solution** *[Here](https://github.com/garvitraj/Swayam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%203/Question%2001/solution.java)*
