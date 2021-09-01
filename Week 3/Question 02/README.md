@@ -1,4 +1,4 @@
-<h3 align="center"> Question 01 </h3>
+<h3 align="center"> Question 02 </h3>
 
 Define a class Point with two fields x and y each of type double. Also, define a method distance(Point p1, Point p2) to calculate the distance between points p1 and p2 and return the value in double.
 Complete the code segment given below. Use `Math.sqrt( )` to calculate the square root.
