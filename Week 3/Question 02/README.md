@@ -9,4 +9,4 @@ Complete the code segment given below. Use `Math.sqrt( )` to calculate the squar
 2.0 , 1.0   | 1.0
 1.0 , 1.0   | 1.0
 
-**See the Solution** *[Here](https://github.com/garvitraj/Swyam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%201/Question01/solution.java)*
+**See the Solution** *[Here](https://github.com/garvitraj/Swayam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%203/Question%2003/solution.java)*
