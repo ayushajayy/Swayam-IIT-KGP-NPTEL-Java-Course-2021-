@@ -1,11 +1,12 @@
 <h3 align="center"> Question 01 </h3>
 
-Complete the code segment **to find the perimeter and area of a circle given a value of radius.**
+Complete the code segment **This program is related to the generation of Fibonacci numbers.> For example: 0,1, 1,2, 3,5, 8, 13,… is a Fibonacci sequence where 13 is the 8th Fibonacci number..**
 
-You should use `Math.PI` constant in your program. If radius is zero or less than zero then print *" please enter non zero positive number "*.
 
 Input  | Expected Output
 -------| ---------------------
-2.0    | 12.566370614359172\n
+1      | 0
+2      | 1
+3      | 1
 
-**See the Solution** *[Here](https://github.com/garvitraj/Swyam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%201/Question01/solution.java)*
+**See the Solution** *[Here](https://github.com/garvitraj/Swyam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%203/Question01/solution.java)*
