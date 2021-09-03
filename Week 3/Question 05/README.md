@@ -1,11 +1,9 @@
 <h3 align="center"> Question 05 </h3>
 
-Complete the code segment **to find the perimeter and area of a circle given a value of radius.**
-
-You should use `Math.PI` constant in your program. If radius is zero or less than zero then print *" please enter non zero positive number "*.
+Complete the code segment **to swap two numbers using call by object reference.**
 
 Input  | Expected Output
 -------| ---------------------
-2.0    | 12.566370614359172\n
+11 29  | 29 11
 
-**See the Solution** *[Here](https://github.com/garvitraj/Swyam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%201/Question01/solution.java)*
+**See the Solution** *[Here](https://github.com/garvitraj/Swayam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%203/Question%2005/solution.java)*
