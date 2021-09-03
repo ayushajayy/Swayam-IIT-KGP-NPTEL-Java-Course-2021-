@@ -1,33 +1,50 @@
 import java.util.Scanner;
-
-public class Circle extends Point{
-	
-public static void main(String[] args) {
-
-	 Scanner sc = new Scanner(System.in);
-	 Point p1=new Point();
-	 p1.x=sc.nextDouble();
-	 p1.y=sc.nextDouble();
-	 Point p2=new Point();
-	 p2.x=sc.nextDouble();
-	 p2.y=sc.nextDouble(); 
-	 Circle c1=new Circle();
-	c1.distance(p1,p2);
-	
-  }
-
+class Shape{
+double length, breadth;
+Shape(double l, double b){ //Constructor to initialize a Shape object  
+length = l;
+breadth= b;
 }
+Shape(double len){    //Constructor to initialize another Shape object  
+length = breadth = len;
+}
+double calculate(){// To calculate the area of a shape object
+return length * breadth ;
+}
+}
+public class Test1 extends Shape{    
 
-//Complete the code segment to define a class Point with parameter x,y and method distance()for calculating distance between two points.
-//Note: Pass objectsof type class Point as argument in distance() method. 
+//Template code:
+	double height;
+	Test1(double length,double h) {
+//base class constructor with one parameter is called
+		super(length);
+		height=h;
+	}
+	
+	Test1(double length,double breadth,double h) {
+//base class constructor having two argument is called
+		super(length,breadth);
+		height=h;
+	}
 
-class Point {
-	double x,y;
-	double distance(Point p1, Point p2)
-	{
-		double result;
-		result = Math.sqrt(Math.pow((p2.x - p1.x),2) + Math.pow((p2.y - p1.y),2));
- 		System.out.print(result);
-		return result;		
+	double calculate()	{
+		return length*breadth*height;
+	}
+
+public static void main(String args[]){
+	Scanner sc = new Scanner(System.in);//Create an object to read                                                               
+                                          //input
+	double l=sc.nextDouble(); //Read length
+	double b=sc.nextDouble(); //Read breadth	
+	double h=sc.nextDouble(); //Read height
+	Test1 myshape1 = new Test1(l,h);
+	Test1 myshape2 = new Test1(l,b,h);
+	double volume1;
+	double volume2;
+	volume1 = myshape1.calculate();
+	volume2=myshape2.calculate();
+	System.out.println(volume1);
+	System.out.println(volume2);
 	}
 }
