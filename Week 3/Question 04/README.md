@@ -1,11 +1,10 @@
 <h3 align="center"> Question 04 </h3>
 
-Complete the code segment **to find the perimeter and area of a circle given a value of radius.**
+Complete the code segment **This program to exercise the call of static and non-static methods. A partial code is given defining two methods, namely sum( ) and multiply ( ). You have to call these methods to find the sum and product of two numbers. Complete the code segment as instructed.**
 
-You should use `Math.PI` constant in your program. If radius is zero or less than zero then print *" please enter non zero positive number "*.
 
 Input  | Expected Output
 -------| ---------------------
-2.0    | 12.566370614359172\n
+1 2    | 3\n and 2
 
 **See the Solution** *[Here](https://github.com/garvitraj/Swyam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%201/Question01/solution.java)*
