@@ -7,4 +7,4 @@ Input  | Expected Output
 -------| ---------------------
 1 2    | 3\n and 2
 
-**See the Solution** *[Here](https://github.com/garvitraj/Swyam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%201/Question01/solution.java)*
+**See the Solution** *[Here](https://github.com/garvitraj/Swayam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%203/Question%2004/solution.java)*
