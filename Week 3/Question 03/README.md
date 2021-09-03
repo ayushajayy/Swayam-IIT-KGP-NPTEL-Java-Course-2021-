@@ -7,4 +7,4 @@ Complete the code segment **A class Shape is defined with two overloading constr
 ---------------| ---------------------
 2.0 , 1.0, 1.0 | 4.0 and 2.0
 
-**See the Solution** *[Here](https://github.com/garvitraj/Swyam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%203/Question03/solution.java)*
+**See the Solution** *[Here](https://github.com/garvitraj/Swayam-IIT-KGP-NPTEL-Java-Course-2021-/blob/main/Week%203/Question%2003/solution.java)*
