@@ -17,28 +17,24 @@
       * *1. Concept of Package in Java*
       * *2. Built-in Packages in Java*
       * *3. Defining Packages in Java*    
-      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=eKckLidjtP8&t=3s)*
+      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=TwU3cv1FFis)*
       
-* **Lecture 13 :** Inheritance
+* **Lecture 18 :** Packages-II
   * **Concepts Covered  :** 
-      * *1. Inheritance Concept*
-      * *2. Types of Inheritances*
-      * *3. Method Overriding*
-      * *4. super Keyword*
-      * *5. Dynamic Method Dispatch*
-      * *6. Abstract Class in Java*
-      * *7. final Keyword in Java*
-      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=rxsl1TzcEgg)*
+      * *1. Accessing a Package*
+      * *2. Importing a Package*
+      * *3. Access Protection for Packages*
+      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=cXtUhpZJYz8)*
           
-* **Lecture 14 :** Demonstration-VI
+* **Lecture 19 :** Demonstration-VIII
   * **Concepts Covered  :** 
-      * *1. Simple Inheritance*
-      * *2. Multilevel Inheritance*   
-      * *3. Use of super Keyword*
-      * *4. Method Overriding in Inheritance*
-      * *5. Abstract Class*
-      * *6. Use of final Keyword*
-      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=Xpw11pR41ps&t=5s)*
+      * *1. Importing a Java Built-in API package.*
+      * *2. Creating a User’s Own Package*   
+      * *3. Package with Default Aaccess Specifier for its Classes*
+      * *4. Utilization of a Package in a Java Program*
+      * *5. Inheritance with a Class in a Package*
+      * *6. Access Protection of Classes in Package*
+      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=ujwFdWjw8uY)*
 
 * **Lecture 15 :** Information Hiding
   * **Concepts Covered  :** 
