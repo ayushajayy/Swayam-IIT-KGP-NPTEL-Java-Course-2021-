@@ -36,13 +36,11 @@
       * *6. Access Protection of Classes in Package*
       * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=ujwFdWjw8uY)*
 
-* **Lecture 15 :** Information Hiding
+* **Lecture 20 :** Interface-I
   * **Concepts Covered  :** 
-      * *1. Access Modifiers in Java*
-      * *2. Default Access modifier*
-      * *3. public Access Modifier*
-      * *4. private Access Modifier*
-      * *5. protected Access Modifier*
-      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=t4GPGkLh4Vg)*
+      * *1. Revisit the Abstract Class*
+      * *2. Interfaces in Java*
+      * *3. Inheritance with Interface*
+      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=qgBv1_Plldo)*
       
 
