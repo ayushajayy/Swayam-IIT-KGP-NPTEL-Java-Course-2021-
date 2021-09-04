@@ -2,18 +2,21 @@
 
 ### Course Outline ###
 
-* **Lecture 11 :** Java Static Scope Rule
+* **Lecture 16 :** Demonstration-VII
   * **Concepts Covered  :** 
-      * *1. Static Scope Rule in Java*
-      * *2. Nested Class in Java* 
-      * *3. Recursive Programs in Java*    
-      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=VNvyB0wjE5Y)*
+      * *1. Example of Default Access Modifier.*
+      * *2. Example of public Access Modifier* 
+      * *3. Example of private Access Modifier.*    
+      * *4. Example of protected Access Modifier.*
+      * *5. Java Access Modifiers with Method Overloading.*
+      * *6. Examples of Access Modifiers *
+      * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=UarOS8o-_7Q)*
       
-* **Lecture 12 :** Demonstration-V
+* **Lecture 17 :** Packages-I
   * **Concepts Covered  :** 
-      * *1. Programs to Demonstrate Loop Control*
-      * *2. Programs to Demonstrate Scope of Variables*
-      * *3. Programs in Java with recursion*    
+      * *1. Concept of Package in Java*
+      * *2. Built-in Packages in Java*
+      * *3. Defining Packages in Java*    
       * *Watch the Video on [Youtube](https://www.youtube.com/watch?v=eKckLidjtP8&t=3s)*
       
 * **Lecture 13 :** Inheritance
