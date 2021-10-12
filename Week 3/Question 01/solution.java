@@ -10,7 +10,7 @@ System.out.println(fib(n)); //Generate and print the n-th Fibonacci
 static int fib(int n) {
 
 
-        if (n==1)      //Terminal condition
+        if (n==1)      // Condition
             return 0;
         else if(n==2)
             return 1; 			
